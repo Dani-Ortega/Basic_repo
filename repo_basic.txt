@@ -1,0 +1,12 @@
+1: inicié branch directamente en 'c:'.
+2: apliqué comando '$mkadir basic_repo' para crear una nueva carpeta
+3: '$cd ./basic_repo' para ingresar a la carpeta
+4: '$touch index.html' para crear archivo
+   '$touch styles.css'
+5: paralelamente inicié un nuevo repo en mi cuenta de gitHub con el     mismo nombre
+6: 'git init' para crear el repo remoto desde la carpeta basic_repo
+7: 'git add .'para agregar cambios realizados a los archivos
+8: 'git commit -m "basic_repo" para commitear y confirmar los     cambios
+9: 'git branch -M main' para iniciar como la branch principal
+10: git remote add orign 'url_de_repo_github' para subir los cambios     desde el repo local al repo remoto
+11: 'git push -u' origin main.
